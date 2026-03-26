@@ -2,7 +2,7 @@
 
 </div>
 
-<h2 align="left">Hi 👋! I'M Masahiro</h2>
+<h2 align="left">Hii 👋! I'm Masahiro</h2>
 
 ###
 
