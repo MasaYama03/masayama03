@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f12c25d6-b54a-4427-8c5b-125d0d782e62" width="100%" alt="banner"/>
+![mario-ezgif com-crop](https://github.com/user-attachments/assets/99341003-b7f7-43d7-8639-4b915fd8dc69)
+
 </div>
 
 <h2 align="left">Hi 👋! I'M Masahiro</h2>
