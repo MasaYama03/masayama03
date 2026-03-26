@@ -1,4 +1,4 @@
-![mario-ezgif com-crop](https://github.com/user-attachments/assets/99341003-b7f7-43d7-8639-4b915fd8dc69)
+![mario-ezgif com-crop (1)](https://github.com/user-attachments/assets/fb9d1f84-0a1b-4aea-8af7-9e536c07b14f)
 
 </div>
 
