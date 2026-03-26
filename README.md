@@ -10,6 +10,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ6M2Q3MzA1aDlqdng5a2NlN2dqaWdsM2tnaDFndTJsaWxwaGJ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+
+###
+
 <p align="left">🎓 Informatics Student at Gunadarma University<br>⚙️ Interested in Backend Development & System Architecture<br>👁️ Exploring Computer Vision & Deep Learning<br>🧠 Passionate about solving real-world problems with AI<br>🛠️ Experienced in building APIs, databases, and scalable systems<br>🔗 Love combining Backend + Machine Learning into impactful applications<br>📈 Always learning: Cloud, AI, and modern backend technologies</p>
 
 ###
