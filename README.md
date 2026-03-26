@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ6M2Q3MzA1aDlqdng5a2NlN2dqaWdsM2tnaDFndTJsaWxwaGJ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+<img align="right" height="200" src="https://github.com/user-attachments/assets/ecbe2169-4592-494c-824d-ca4d9d4866e5" />
 
 ###
 
